@@ -1,0 +1,23 @@
+div{
+margin:0 px;
+text-align: justify;
+
+}
+
+
+.x{
+    text-align: center;
+    text-decoration: underline;
+    color:darkviolet ;
+    font-style: inherit;
+    font-size:20px;
+}
+li{
+
+font-size: medium;
+font-style: oblique;
+color:lightsalmon;
+/* border: 2px solid tomato; */
+padding: 5px;
+
+}
